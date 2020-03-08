@@ -4,12 +4,13 @@
   ℳ
   <br/>
   <em>
-  singlemd
+  singlemd-bootstrap
   </em>
 </h1>
 
 <p>
-  Make a website with just a single Markdown file
+  Make a website with just a single Markdown file + Support for BootStrap tags
+  Based on singlemd package.
 </p>
 </div>
 
